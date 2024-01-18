@@ -1,16 +1,21 @@
-
-
-.italic{
+.italic {
     font-style: italic;
 }
 
-.color-gray{
+.color-gray {
     color: gray;
-    
 }
 
-.white-purple{
+.white-purple {
     color: white;
-    background-color: purple; 
+    background-color: purple;
     text-align: center;
-} 
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.ffont-sans-serif {
+    font-family: monospace;
+}
